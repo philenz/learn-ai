@@ -17,6 +17,7 @@
 1. **Deploy a predictive service**:
     - After you train a machine learning model, you need to convert the training pipeline into a real-time inference pipeline.
     - Then you can deploy the model as an application on a server or device so that others can use it.
-### Explore regression with Azure Machine Learning Designer
-- https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02a-create-regression-model.html
+
+### Exercises
+- [Explore regression with Azure Machine Learning Designer](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02a-create-regression-model.html)
 

@@ -32,5 +32,6 @@
     1. _Train model_: Split the data into two groups, a training and a validation set. Train a machine learning model using the training data set. Test the machine learning model for performance using the validation data set.
     1. _Evaluate performance_: Compare how close the model's predictions are to the known labels.
     1. _Deploy a predictive service_: After you train a machine learning model, you can deploy the model as an application on a server or device so that others can use it.
-#### [Explore Automated Machine Learning in Azure ML](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02.html)
-- Created ML workspace `ml-phil` in resource group `ml-phil`
+### Exercises
+- [Explore Automated Machine Learning in Azure ML](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02.html)
+    - Created ML workspace `ml-phil` in resource group `ml-phil`

@@ -34,5 +34,4 @@
     1. Evaluate the model by adding...
         - Evaluate model
 - TODO from about here
-
-    
+- Machine Learning Algorithm Cheat Sheet: `./azure-machine-learning-algorithm-cheat-sheet-july-2021.pdf`

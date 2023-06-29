@@ -20,4 +20,19 @@
 
 ### Exercises
 - [Explore regression with Azure Machine Learning Designer](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02a-create-regression-model.html)
+    1. Create a pipeline in Designer
+    1. Add a dataset to the pipeline (in this case automobile price data)
+    1. Add data transformations...
+        - Select columns
+        - Clean missing data
+        - Normalize data
+    1. Add training steps...
+        - Split data
+        - Linear regression ([why?](https://learn.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet?view=azureml-api-1&azure-portal=true))
+        - Train model
+        - Score model
+    1. Evaluate the model by adding...
+        - Evaluate model
+- TODO from about here
 
+    

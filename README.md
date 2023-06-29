@@ -10,5 +10,6 @@
 - [Playing with Bing Chat](https://www.youtube.com/watch?v=eWK_a0lGCCg)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
 - [Trusting your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs&t=12s)
-
-
+### Maths
+- [Regression](./Maths/Regression.md)
+- [Calculus](./Maths/Calculus.md)

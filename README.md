@@ -5,6 +5,7 @@
 ## See also...
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
 - [Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer)
+- [Artificial Intelligence in Finance](./AzureAIFundamentals/AIFinance.md)
 ### John Savill
 - [Playing with Bing Chat](https://www.youtube.com/watch?v=eWK_a0lGCCg)
 - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)

@@ -34,4 +34,16 @@
     1. _Deploy a predictive service_: After you train a machine learning model, you can deploy the model as an application on a server or device so that others can use it.
 ### Exercises
 - [Explore Automated Machine Learning in Azure ML](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02.html)
-    - Created ML workspace `ml-phil` in resource group `ml-phil`
+    1. Create ML workspace `ml-phil` in resource group `ml-phil`
+    1. Create a compute cluster
+    1. Create a data asset - in this case a bike rentals spreaadsheet
+    1. Run an automate machine learning job
+        - Task type: Regression (the model predicts a numeric value, in this case the number of bike rentals (the label))
+        - Primary metric: Normalized root mean square error (NRMSE)
+    1. Review the best model
+    1. Deploy a predictive service
+    1. Test the deployed service
+    
+        
+
+

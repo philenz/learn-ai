@@ -28,10 +28,18 @@
         - Normalize data
     1. Add training steps...
         - Split data
-        - Linear regression ([why?](https://learn.microsoft.com/en-us/azure/machine-learning/algorithm-cheat-sheet?view=azureml-api-1&azure-portal=true))
+        - Linear regression
+            - `./azure-machine-learning-algorithm-cheat-sheet-july-2021.pdf`
         - Train model
         - Score model
     1. Evaluate the model by adding...
         - Evaluate model
-- TODO from about here
-- Machine Learning Algorithm Cheat Sheet: `./azure-machine-learning-algorithm-cheat-sheet-july-2021.pdf`
+    1. Create and run an inference pipeline
+    1. Deploy model as a service
+        - To ACI by default
+        - Use AKS for production
+- Review...
+  - You `cleaned and transformed a dataset` of automobile data,
+  - then used the car `features` to `train a model`.
+  - The model `predicts` the price of an automobile, which is the `label`.
+  - You also tested a service that is ready to be connected to a client application using the credentials in the Consume tab.

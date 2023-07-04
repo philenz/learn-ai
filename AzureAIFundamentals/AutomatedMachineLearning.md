@@ -36,7 +36,7 @@
 - [Explore Automated Machine Learning in Azure ML](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02-module-02.html)
     1. Create ML workspace `ml-phil` in resource group `ml-phil`
     1. Create a compute cluster
-    1. Create a data asset - in this case a bike rentals spreaadsheet
+    1. Create a data asset - in this case a bike rentals spreadsheet
     1. Run an automate machine learning job
         - Task type: Regression (the model predicts a numeric value, in this case the number of bike rentals (the label))
         - Primary metric: Normalized root mean square error (NRMSE)

@@ -3,6 +3,7 @@
 1. [Use Automated Machine Learning in Azure Machine Learning](./AzureAIFundamentals/AutomatedMachineLearning.md)
 1. [Create a regression model with Azure Machine Learning designer](./AzureAIFundamentals/RegressionModel.md)
 1. [Create a classification model with Azure Machine Learning designer](./AzureAIFundamentals/ClassificationModel.md)
+1. [Create a clustering model with Azure Machine Learning designer](./AzureAIFundamentals/ClusteringModel.md)
 ## See also...
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
 - [Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer)

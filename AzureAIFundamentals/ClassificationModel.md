@@ -25,3 +25,19 @@
 
 ### Exercises
 - [Explore classification with Azure Machine Learning Designer](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/02b-create-classification-model.html)
+  - Create a pipeline
+  - Add a dataset
+  - Add transformations
+  - Add training modules
+  - Add an evaluate module
+  - Examine the confusion matrix...
+    - `Accuracy`: what proportion of diabetes predictions did the model get right?
+    - `Precision`: out of all the patients that the model predicted as having diabetes, what % of time is the model correct?
+    - `Recall`: out of all the patients who actually have diabetes, how many diabetic cases did the model identify correctly?
+    - `F1 Score`: a weighted average of the precision and recall, where an F1 score reaches its best value at 1 and worst score at 0.
+    - `ROC curve`: a plot of the true positive rate (TPR) against the false positive rate (FPR) at various threshold settings.
+    - `AUC`: the area under the ROC curve. `0.5 is random`, 1.0 is perfect.
+  - Create an inference pipeline
+  - Deploy a service
+  - Test the service
+  

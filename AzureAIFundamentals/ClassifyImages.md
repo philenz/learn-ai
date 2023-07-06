@@ -10,5 +10,8 @@
 
 ### [Explore image classification](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/03a-classify-images.html)
 - use the [Custom Vision portal](https://customvision.ai/?azure-portal=true)
+- Select regions on images and tag them with labels
+- Train a model to recognize the tags
+- When training is complete, review the **Precision**, **Recall**, and **mAP** performance metrics - these measure the prediction goodness of the object detection model, and should all be reasonably high.
 
 

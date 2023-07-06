@@ -6,6 +6,7 @@
 1. [Create a clustering model with Azure Machine Learning designer](./AzureAIFundamentals/ClusteringModel.md)
 1. [Analyze images with the Computer Vision service](./AzureAIFundamentals/ComputerVision.md)
 1. [Classify images with the Computer Vision service](./AzureAIFundamentals/ClassifyImages.md)
+1. [Detect objects in images with the Custom Vision service](./AzureAIFundamentals/DetectObjects.md)
 ## See also...
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
 - [Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer)

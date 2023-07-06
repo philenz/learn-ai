@@ -7,6 +7,7 @@
 1. [Analyze images with the Computer Vision service](./AzureAIFundamentals/ComputerVision.md)
 1. [Classify images with the Computer Vision service](./AzureAIFundamentals/ClassifyImages.md)
 1. [Detect objects in images with the Custom Vision service](./AzureAIFundamentals/DetectObjects.md)
+1. [Detect and analyze faces with the Face service](./AzureAIFundamentals/FaceService.md)
 ## See also...
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
 - [Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer)

@@ -8,6 +8,13 @@
 1. [Classify images with the Computer Vision service](./AzureAIFundamentals/ClassifyImages.md)
 1. [Detect objects in images with the Custom Vision service](./AzureAIFundamentals/DetectObjects.md)
 1. [Detect and analyze faces with the Face service](./AzureAIFundamentals/FaceService.md)
+1. [Read text with the Computer Vision service](./AzureAIFundamentals/ReadText.md)
+1. [Analyze receipts with the Form Recognizer service](./AzureAIFundamentals/AnalyzeReceipts.md)
+1. [Build a bot with the Language Service and Azure Bot Service](./AzureAIFundamentals/BuildBot.md)
+1. [Analyze text with the Language service](./AzureAIFundamentals/AnalyzeText.md)
+1. [Recognize and synthesize speech](./AzureAIFundamentals/SpeechService.md)
+1. [Translate text and speech](./AzureAIFundamentals/Translate.md)
+
 ## See also...
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
 - [Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer)

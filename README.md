@@ -34,3 +34,8 @@
 ### Maths
 - [Regression](./Maths/Regression.md)
 - [Calculus](./Maths/Calculus.md)
+
+### Whizlabs
+- [AI-900](https://www.whizlabs.com/microsoft-azure-certification-ai-900/)
+- [AI-102](https://www.whizlabs.com/learn/course/microsoft-azure-certification-ai-102/397)
+

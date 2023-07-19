@@ -14,6 +14,8 @@
 1. [Analyze text with the Language service](./AzureAIFundamentals/AnalyzeText.md)
 1. [Recognize and synthesize speech](./AzureAIFundamentals/SpeechService.md)
 1. [Translate text and speech](./AzureAIFundamentals/Translate.md)
+1. [Create a language model with Conversational Language Understanding](./AzureAIFundamentals/ConversationalLanguageUnderstanding.md)
+1. [Introduction to Azure Cognitive Search](./AzureAIFundamentals/AzureCognitiveSearch.md)
 
 ## See also...
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)

@@ -31,11 +31,11 @@
     - https://github.com/f/awesome-chatgpt-prompts#act-as-an-it-architect
     - https://github.com/f/awesome-chatgpt-prompts#act-as-a-regex-generator
 - [Trusting your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs&t=12s)
+### Practice Tests
+- [MS AI-900](https://learn.microsoft.com/en-nz/certifications/exams/ai-900/)
+- [Whizlabs AI-102](https://www.whizlabs.com/learn/course/microsoft-azure-certification-ai-102/397)
+- [JS AI-102 Study Cram](https://www.youtube.com/watch?v=I7fdWafTcPY)
+
 ### Maths
 - [Regression](./Maths/Regression.md)
 - [Calculus](./Maths/Calculus.md)
-
-### Whizlabs
-- [AI-900](https://www.whizlabs.com/microsoft-azure-certification-ai-900/)
-- [AI-102](https://www.whizlabs.com/learn/course/microsoft-azure-certification-ai-102/397)
-

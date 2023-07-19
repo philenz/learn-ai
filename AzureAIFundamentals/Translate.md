@@ -1,1 +1,11 @@
-## Translate text and speech
+- Azure cognitive services that support translation
+    - The **Translator** service, which supports text-to-text translation.
+        - Uses a **Neural Machine Translation (NMT) model** for translation, which analyzes the semantic context of the text.
+        - Supports more than 60 languages.
+        - Optional profanity filering and selective translation.
+    - The **Speech** service, which enables speech to text and speech-to-speech translation.
+        - Includes the following application programming interfaces (APIs):
+            - `Speech to text` - used to transcribe speech from an audio source to text format.
+            - `Text to speech` - used to generate spoken audio from a text source.
+            - `Speech Translation` - used to translate speech in one language to text or speech in another.
+- Exercise: [Explore translation](https://microsoftlearning.github.io/AI-900-AIFundamentals/instructions/04b-translate-text-and-speech.html)

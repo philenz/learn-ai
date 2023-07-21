@@ -36,7 +36,7 @@
 ### Practice Tests
 - [MS AI-900](https://learn.microsoft.com/en-nz/certifications/exams/ai-900/)
 - [Whizlabs AI-102](https://www.whizlabs.com/learn/course/microsoft-azure-certification-ai-102/397)
-- [JS AI-102 Study Cram](https://www.youtube.com/watch?v=I7fdWafTcPY)
+- [JS AI-102 Study Cram](./AzureAIFundamentals/JS-AI102-StudyCram.md)
 
 ### Maths
 - [Regression](./Maths/Regression.md)

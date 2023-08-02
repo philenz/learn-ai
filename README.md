@@ -33,10 +33,15 @@
     - https://github.com/f/awesome-chatgpt-prompts#act-as-an-it-architect
     - https://github.com/f/awesome-chatgpt-prompts#act-as-a-regex-generator
 - [Trusting your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs&t=12s)
-### Practice Tests
+### Certification
+#### AI-900
 - [MS AI-900](https://learn.microsoft.com/en-nz/certifications/exams/ai-900/)
-- [Whizlabs AI-102](https://www.whizlabs.com/learn/course/microsoft-azure-certification-ai-102/397)
+- https://github.com/MicrosoftLearning/AI-900-AIFundamentals
+
+#### AI-102
 - [JS AI-102 Study Cram](./AzureAIFundamentals/JS-AI102-StudyCram.md)
+- https://github.com/MicrosoftLearning/AI-102-AIEngineer
+- [Whizlabs AI-102](https://www.whizlabs.com/learn/course/microsoft-azure-certification-ai-102/397)
 
 ### Maths
 - [Regression](./Maths/Regression.md)

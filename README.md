@@ -34,8 +34,7 @@
     - https://github.com/f/awesome-chatgpt-prompts#act-as-a-regex-generator
 - [Trusting your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs&t=12s)
 ### Certification
+- [AI-102](./AzureAIEngineer/README.md)
 - [MS AI-900](https://learn.microsoft.com/en-nz/certifications/exams/ai-900/)
 - [MS AI-900 Course Exercises](https://microsoftlearning.github.io/AI-900-AIFundamentals/)
-- [JS AI-102 Study Cram](./AzureAIFundamentals/JS-AI102-StudyCram.md)
-- [MS AI-102 Course Exercises](https://microsoftlearning.github.io/AI-102-AIEngineer/)
 

@@ -1,5 +1,5 @@
 ## [AI Engineer Exercises](https://microsoftlearning.github.io/AI-102-AIEngineer/)
-
+- Repo cloned locally from https://github.com/MicrosoftLearning/AI-102-AIEngineer
 #### [Lab Environment Setup]("https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/00-setup.html")
 
 #### [Enable Resource Providers]("https://microsoftlearning.github.io/AI-102-AIEngineer/Instructions/00-update-resource-providers.html")

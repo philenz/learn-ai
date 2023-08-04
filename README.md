@@ -1,21 +1,6 @@
-## [Azure AI Fundamentals](https://learn.microsoft.com/en-nz/training/challenges?id=8e1f62a7-99e3-48e4-9ec9-1fffb99ee9af)
-1. [Get started with AI on Azure](./AzureAIFundamentals/GetStarted.md)
-1. [Use Automated Machine Learning in Azure Machine Learning](./AzureAIFundamentals/AutomatedMachineLearning.md)
-1. [Create a regression model with Azure Machine Learning designer](./AzureAIFundamentals/RegressionModel.md)
-1. [Create a classification model with Azure Machine Learning designer](./AzureAIFundamentals/ClassificationModel.md)
-1. [Create a clustering model with Azure Machine Learning designer](./AzureAIFundamentals/ClusteringModel.md)
-1. [Analyze images with the Computer Vision service](./AzureAIFundamentals/ComputerVision.md)
-1. [Classify images with the Computer Vision service](./AzureAIFundamentals/ClassifyImages.md)
-1. [Detect objects in images with the Custom Vision service](./AzureAIFundamentals/DetectObjects.md)
-1. [Detect and analyze faces with the Face service](./AzureAIFundamentals/FaceService.md)
-1. [Read text with the Computer Vision service](./AzureAIFundamentals/ReadText.md)
-1. [Analyze receipts with the Form Recognizer service](./AzureAIFundamentals/AnalyzeReceipts.md)
-1. [Build a bot with the Language Service and Azure Bot Service](./AzureAIFundamentals/BuildBot.md)
-1. [Analyze text with the Language service](./AzureAIFundamentals/AnalyzeText.md)
-1. [Recognize and synthesize speech](./AzureAIFundamentals/SpeechService.md)
-1. [Translate text and speech](./AzureAIFundamentals/Translate.md)
-1. [Create a language model with Conversational Language Understanding](./AzureAIFundamentals/ConversationalLanguageUnderstanding.md)
-1. [Introduction to Azure Cognitive Search](./AzureAIFundamentals/AzureCognitiveSearch.md)
+## Azure
+- [AI-900: AI Fundamentals](./AzureAIFundamentals/README.md)
+- [AI-102: AI Engineer](./AzureAIEngineer/README.md)
 
 ## See also...
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
@@ -33,8 +18,3 @@
     - https://github.com/f/awesome-chatgpt-prompts#act-as-an-it-architect
     - https://github.com/f/awesome-chatgpt-prompts#act-as-a-regex-generator
 - [Trusting your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs&t=12s)
-### Certification
-- [AI-102](./AzureAIEngineer/README.md)
-- [MS AI-900](https://learn.microsoft.com/en-nz/certifications/exams/ai-900/)
-- [MS AI-900 Course Exercises](https://microsoftlearning.github.io/AI-900-AIFundamentals/)
-

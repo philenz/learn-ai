@@ -7,6 +7,8 @@
 - [Azure AI Engineer Associate](https://docs.microsoft.com/en-us/learn/certifications/azure-ai-engineer)
 - [Artificial Intelligence in Finance](./Docs/AIFinance.md)
 - [A Developer's Guide to Building AI Applications](./Docs/DevelopersGuide.md)
+- [Linear Ridge Regression using c#](https://visualstudiomagazine.com/articles/2023/08/01/llr-using-csharp.aspx)
+
 ### John Savill
 - [Playing with Bing Chat](https://www.youtube.com/watch?v=eWK_a0lGCCg)
   - **Act As --> You Will --> Show As**

@@ -1,3 +1,4 @@
+![Exam Details](./ExamDetails.png)
 ## [Level up: Azure AI Engineer](https://learn.microsoft.com/en-us/users/sandramarin/collections/xpgig43oxk277)
 
 ### Prepare for AI engineering

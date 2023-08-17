@@ -1,0 +1,1 @@
+https://learn.microsoft.com/en-us/shows/exam-readiness-zone/preparing-for-ai-102-plan-and-manage-an-azure-ai-solution-1-of-5

@@ -25,3 +25,22 @@
 - When using the REST interface, some Azure AI Services support (or even require) token-based authentication.
 - In these cases, the subscription key is presented in an initial request to obtain an authentication token, which has a valid period of 10 minutes.
 - Subsequent requests must present the token to validate that the caller has been authenticated.
+
+### Monitor cost
+- Azure AI Services are charged based on usage
+- Create alert rules based on metric thresholds
+- A key regeneration event is recorded in the aztivity log with a `signal type`
+
+### Deploy Azure AI services in containers
+- Not quite on-prem: `Even when using a container, you must provision an Azure AI Services resource in Azure for billing purposes`.
+
+### AI Services continer images
+- Each container provides a subset of Azure AI Services functionality.
+- For example, not all features of the Language service are in a single container. Language detection, translation, and sentiment analysis are each separate container images. However, the setup steps are similar for each container.
+
+### AI Services continer configuration
+- Must specify three settings...
+  1. ApiKey
+  1. Billing (endpoing uri used for billing)
+  1. Eula
+

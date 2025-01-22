@@ -8,7 +8,8 @@
 - [Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 - [Generative AI for Beginners - A Course (Microsoft)](https://microsoft.github.io/generative-ai-for-beginners/#/)
 - [The Llama Hitchiking Guide to Local LLMs](https://osanseviero.github.io/hackerllama/blog/posts/hitchhiker_guide/)
-
+- [fast.ai—Making neural nets uncool again](https://www.fast.ai/)
+- [The Hundred-page Language Models Book](https://thelmbook.com/) / [theLMbook repo](https://github.com/aburkov/theLMbook)
 
 ### John Savill
 - [Playing with Bing Chat](https://www.youtube.com/watch?v=eWK_a0lGCCg)

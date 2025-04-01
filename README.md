@@ -10,6 +10,7 @@
 - [The Llama Hitchiking Guide to Local LLMs](https://osanseviero.github.io/hackerllama/blog/posts/hitchhiker_guide/)
 - [fast.ai—Making neural nets uncool again](https://www.fast.ai/)
 - [The Hundred-page Language Models Book](https://thelmbook.com/) / [theLMbook repo](https://github.com/aburkov/theLMbook)
+- [Microsoft AI Decision Brief 2025](MicrosoftAIDecisionBrief2025.pdf)
 
 ### John Savill
 - [Playing with Bing Chat](https://www.youtube.com/watch?v=eWK_a0lGCCg)

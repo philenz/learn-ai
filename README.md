@@ -2,8 +2,19 @@
 - [AI-900: AI Fundamentals](./AzureAIFundamentals/README.md)
 - [AI-102: AI Engineer](./AzureAIEngineer/README.md)
 
+## GitHub Copilot
+- [GitHub Copilot Fundamentals Part 1 of 2](https://learn.microsoft.com/en-us/training/paths/copilot/)
+- [Guided project - Build auto suggest engine with Copilot](https://learn.microsoft.com/en-us/training/modules/build-auto-suggest-engine-copilot/)
+
+## Microsoft Learn
+- [Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
+- [Fundamentals of Knowledge Mining and Azure AI Search](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/)
+- [Implement knowledge mining with Azure AI Search](https://learn.microsoft.com/en-us/training/paths/implement-knowledge-mining-azure-cognitive-search/)
+- [Develop natural language processing solutions with Azure AI Services](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/)
+- [Fundamentals of question answering with the Language Service](https://learn.microsoft.com/en-us/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/)
+
 ## More Learning
-- In progress... [Large Language Model Course](./LLMCourse/README.md)
+- [Large Language Model Course](./LLMCourse/README.md)
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
 - [Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 - [Generative AI for Beginners - A Course (Microsoft)](https://microsoft.github.io/generative-ai-for-beginners/#/)
@@ -12,15 +23,4 @@
 - [The Hundred-page Language Models Book](https://thelmbook.com/) / [theLMbook repo](https://github.com/aburkov/theLMbook)
 - [Microsoft AI Decision Brief 2025](MicrosoftAIDecisionBrief2025.pdf)
 
-### John Savill
-- [Playing with Bing Chat](https://www.youtube.com/watch?v=eWK_a0lGCCg)
-  - **Act As --> You Will --> Show As**
-  - [Awesome ChatGPT Prompts](https://github.com/f/awesome-chatgpt-prompts)
-    - https://github.com/f/awesome-chatgpt-prompts#act-as-a-math-teacher
-    - https://github.com/f/awesome-chatgpt-prompts#act-as-a-machine-learning-engineer
-    - https://github.com/f/awesome-chatgpt-prompts#act-as-a-cyber-security-specialist
-    - https://github.com/f/awesome-chatgpt-prompts#act-as-a-statistician
-    - https://github.com/f/awesome-chatgpt-prompts#act-as-an-it-architect
-    - https://github.com/f/awesome-chatgpt-prompts#act-as-a-regex-generator
-- [Trusting your Co-Pilot](https://www.youtube.com/watch?v=7zT_T5TtZqs&t=12s)
 

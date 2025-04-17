@@ -11,7 +11,6 @@
 - [Create agentic AI solutions with Azure AI Foundry](https://learn.microsoft.com/en-us/challenges/xepncpt83p6qwd)
 - [Become a Certified Fabric Data Engineer: Prep for the DP-700 Certification](https://learn.microsoft.com/en-us/challenges/60yka7to2d1k30)
 
-
 ## Microsoft Learn
 - [Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 - [Fundamentals of Knowledge Mining and Azure AI Search](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/)

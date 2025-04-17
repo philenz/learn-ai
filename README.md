@@ -13,10 +13,16 @@
 - [Develop natural language processing solutions with Azure AI Services](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/)
 - [Fundamentals of question answering with the Language Service](https://learn.microsoft.com/en-us/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/)
 
+## Build AI-Powered Apps with Azure Database for PostgreSQL
+- [Build AI Apps with Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/training/paths/build-ai-apps-azure-database-postgresql/)
+- [Microsoft Learn PostgreSQL exercises](https://github.com/MicrosoftLearning/mslearn-postgresql?tab=readme-ov-file)
+- [Building a RAG application with a PostgreSQL database](https://learn.microsoft.com/en-us/shows/visual-studio-code/building-a-rag-application-with-a-postgresql-database)
+
+
 ## More Learning
+- [Azure AI + ML products](https://learn.microsoft.com/en-us/azure/?product=ai-machine-learning)
 - [Large Language Model Course](./LLMCourse/README.md)
 - [DeepLearning.AI Short Courses](https://learn.deeplearning.ai/)
-- [Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 - [Generative AI for Beginners - A Course (Microsoft)](https://microsoft.github.io/generative-ai-for-beginners/#/)
 - [The Llama Hitchiking Guide to Local LLMs](https://osanseviero.github.io/hackerllama/blog/posts/hitchhiker_guide/)
 - [fast.ai—Making neural nets uncool again](https://www.fast.ai/)

@@ -1,14 +1,16 @@
+## [GitHub Copilot](./GitHubCopilot/README.md)
+1. [GitHub Copilot Fundamentals Part 1 of 2](./GitHubCopilot/Fundamentals/README.md)
+1. [Guided project - Build auto suggest engine with Copilot](./GitHubCopilot/GuidedProject/README.md)
+
+## AI Skills Fest Challenges
+1. [Architecture Recipes for AI-Powered Applications](./AISkills/ArchitectureRecipes/README.md)
+1. [Create agentic AI solutions with Azure AI Foundry](./AISkills/AgenticSolutions/README.md)
+1. [Become a Certified Fabric Data Engineer: Prep for the DP-700 Certification](./AISkills/FabricDataEngineer/README.md)
+
 ## Incoming...
 - [GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
 - [10 Awesome MCP Servers](https://www.kdnuggets.com/10-awesome-mcp-servers)
 - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
-
-## [GitHub Copilot](./GitHubCopilot/README.md)
-
-## AI Skills Fest Challenges
-- [Architecture Recipes for AI-Powered Applications](./AISkills/ArchitectureRecipes/README.md)
-- [Create agentic AI solutions with Azure AI Foundry](./AISkills/AgenticSolutions/README.md)
-- [Become a Certified Fabric Data Engineer: Prep for the DP-700 Certification](./AISkills/FabricDataEngineer/README.md)
 
 ## Azure Certification
 - [AI-900: AI Fundamentals](./AzureAIFundamentals/README.md)

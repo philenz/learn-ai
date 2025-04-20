@@ -6,9 +6,9 @@
 ## [GitHub Copilot](./GitHubCopilot/README.md)
 
 ## AI Skills Fest Challenges
-- [Architecture Recipes for AI-Powered Applications](https://learn.microsoft.com/en-us/challenges/g7prb3td2e013n)
-- [Create agentic AI solutions with Azure AI Foundry](https://learn.microsoft.com/en-us/challenges/xepncpt83p6qwd)
-- [Become a Certified Fabric Data Engineer: Prep for the DP-700 Certification](https://learn.microsoft.com/en-us/challenges/60yka7to2d1k30)
+- [Architecture Recipes for AI-Powered Applications](./AISkills/ArchitectureRecipes/README.md)
+- [Create agentic AI solutions with Azure AI Foundry](./AISkills/AgenticSolutions/README.md)
+- [Become a Certified Fabric Data Engineer: Prep for the DP-700 Certification](./AISkills/FabricDataEngineer/README.md)
 
 ## Azure Certification
 - [AI-900: AI Fundamentals](./AzureAIFundamentals/README.md)

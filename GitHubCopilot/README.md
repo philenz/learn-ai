@@ -1,8 +1,8 @@
 ## GitHub Copilot
 
 ### Microsoft Learn
-- [GitHub Copilot Fundamentals Part 1 of 2](https://learn.microsoft.com/en-us/training/paths/copilot/)
-- [Guided project - Build auto suggest engine with Copilot](https://learn.microsoft.com/en-us/training/modules/build-auto-suggest-engine-copilot/)
+- [GitHub Copilot Fundamentals Part 1 of 2](./Fundamentals/README.md)
+- [Guided project - Build auto suggest engine with Copilot](./GuidedProject/README.md)
 
 ### Links
 - [GitHub Copilot: The agent awakens](https://github.blog/news-insights/product-news/github-copilot-the-agent-awakens/)

@@ -1,15 +1,18 @@
-## Azure Certification
-- [AI-900: AI Fundamentals](./AzureAIFundamentals/README.md)
-- [AI-102: AI Engineer](./AzureAIEngineer/README.md)
+## Incoming...
+- [GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
+- [10 Awesome MCP Servers](https://www.kdnuggets.com/10-awesome-mcp-servers)
+- [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
 
-## GitHub Copilot
-- [GitHub Copilot Fundamentals Part 1 of 2](https://learn.microsoft.com/en-us/training/paths/copilot/)
-- [Guided project - Build auto suggest engine with Copilot](https://learn.microsoft.com/en-us/training/modules/build-auto-suggest-engine-copilot/)
+## [GitHub Copilot](./GitHubCopilot/README.md)
 
 ## AI Skills Fest Challenges
 - [Architecture Recipes for AI-Powered Applications](https://learn.microsoft.com/en-us/challenges/g7prb3td2e013n)
 - [Create agentic AI solutions with Azure AI Foundry](https://learn.microsoft.com/en-us/challenges/xepncpt83p6qwd)
 - [Become a Certified Fabric Data Engineer: Prep for the DP-700 Certification](https://learn.microsoft.com/en-us/challenges/60yka7to2d1k30)
+
+## Azure Certification
+- [AI-900: AI Fundamentals](./AzureAIFundamentals/README.md)
+- [AI-102: AI Engineer](./AzureAIEngineer/README.md)
 
 ## Microsoft Learn
 - [Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
@@ -23,6 +26,14 @@
 - [Microsoft Learn PostgreSQL exercises](https://github.com/MicrosoftLearning/mslearn-postgresql?tab=readme-ov-file)
 - [Building a RAG application with a PostgreSQL database](https://learn.microsoft.com/en-us/shows/visual-studio-code/building-a-rag-application-with-a-postgresql-database)
 
+## Google AI Studio
+- [Gemini](https://gemini.google.com/app)
+- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
+    - [Tune a model](https://aistudio.google.com/app/tune)
+    - [Get API key](https://aistudio.google.com/app/apikey)
+- [Gemini Developer API](https://ai.google.dev/gemini-api/docs)
+- [Gemini 2.0: Flash, Flash-Lite and Pro](https://developers.googleblog.com/en/gemini-2-family-expands/)
+- [Build with Google AI Forum](https://discuss.ai.google.dev/c/ai-studio/8)
 
 ## More Learning
 - [Azure AI + ML products](https://learn.microsoft.com/en-us/azure/?product=ai-machine-learning)

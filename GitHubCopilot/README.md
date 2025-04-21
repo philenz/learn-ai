@@ -2,6 +2,7 @@
 
 ### Microsoft Learn
 - [GitHub Copilot Fundamentals Part 1 of 2](./Fundamentals/README.md)
+- [GitHub Copilot Fundamentals Part 2 of 2](./Fundamentals2/README.md)
 - [Guided project - Build auto suggest engine with Copilot](./GuidedProject/README.md)
 
 ### Links

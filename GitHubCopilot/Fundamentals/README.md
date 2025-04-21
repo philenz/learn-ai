@@ -47,9 +47,66 @@
 1. IDE
 
 ##### [GitHub Copilot Data](https://learn.microsoft.com/en-us/training/modules/introduction-prompt-engineering-with-github-copilot/4-github-copilot-data)
-TODO
 
+- Copilot Chat currently operates with a **context window of 4k tokens**, providing a broader scope for understanding and responding to user queries compared to the standard Copilot.
+- Despite these advancements, you should be mindful of context window limitations when crafting prompts.
+- Breaking down complex problems into smaller, more focused queries or providing relevant code snippets can significantly enhance the model's ability to provide accurate and helpful responses.
 
 #### [Using advanced GitHub Copilot features](https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/)
+
+- **Inline chat**: **Ctrl-I**
+- **Slash commands**: Press **/** and see a dropdown list. E.g.:
+    - /doc: Adds comments to the specified or selected code.
+    - /explain: Gets explanations about the code.
+    - /generate: Generates code to answer the specified question.
+    - /help: Gets help on how to use Copilot chat.
+    - /optimize: Analyzes and improves the runtime of the selected code.
+    - /tests: Creates unit tests for the selected code.
+    - /fix: How do I fix errors in the code.
+- **Agents**: Press **@** to see a dropdown list of agents. E.g.:
+    - _@workspace_
+    - _@terminal_
+    - _@file_
+    - _@directory_
+    - _@vscode_: e.g.: _@vscode how do i debug code_
+
+##### [Exercise - Set up GitHub Copilot to work with Visual Studio Code](https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/3-exercise-setup)
+##### [Exercise - Update a web API with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/advanced-github-copilot/5-exercise-update-a-web-api)
+- Codespace: https://shiny-space-broccoli-wr749qxx54h9rpx.github.dev/
+- https://github.com/codespaces
+
 #### [GitHub Copilot Across Environments: IDE, Chat, and Command Line Techniques](https://learn.microsoft.com/en-us/training/modules/github-copilot-across-environments/)
+
+##### Auto suggestions
+- If multiple suggestions are offered use: Alt+] (next), Alt+[ (previous)
+
+##### Using coding comments for suggestions
+- **Inline comments**: Short explanations next to specific lines of code.
+- **Block comments**: Longer explanations that might describe a function or class.
+- **Docstrings**: Formal documentation strings in languages like Python.
+- **TODO comments**: Notes about future implementations or improvements.
+- **API Documentation**: Comments that describe the usage and parameters of functions or methods.
+
+##### Chat
+- File references: You can specify a particular file in your question by adding a **#file**: before the file name.
+- You can also use the **@workspace /new** smart action which allows you to generate a completely new project from scratch based on your requirements.
+    - For example, _@workspace /new generate new html file pages and javascript for advanced calculations_
+- **@terminal**: This agent is useful for command-line related questions.
+    - For example, you could ask it __find the largest file in the directory__ or __explain the last command you ran__.
+
+##### [GitHub Copilot for the Command Line](https://learn.microsoft.com/en-us/training/modules/github-copilot-across-environments/4-git-hub-copilot-for-the-command-line)
+[Installing GitHub Copilot in the CLI](https://docs.github.com/en/copilot/managing-copilot/configure-personal-settings/installing-github-copilot-in-the-cli)
+```bash
+gh copilot explain "sudo apt-get"
+
+gh copilot suggest "Undo the last commit"
+
+ghcs suggest "What command to see running docker containers"
+
+# first configure gh aliases for the previous command...
+echo 'eval "$(gh copilot alias -- bash)"' >> ~/.bashrc
+```
+
+
 #### [Management and customization considerations with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/github-copilot-management-and-customizations/)
+- TODO

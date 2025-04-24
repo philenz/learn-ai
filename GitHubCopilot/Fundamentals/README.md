@@ -101,12 +101,27 @@ gh copilot explain "sudo apt-get"
 
 gh copilot suggest "Undo the last commit"
 
-ghcs suggest "What command to see running docker containers"
-
-# first configure gh aliases for the previous command...
+# configure ghcs and ghce aliases...
 echo 'eval "$(gh copilot alias -- bash)"' >> ~/.bashrc
+
+ghcs "What command to see running docker containers"
 ```
 
-
 #### [Management and customization considerations with GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/github-copilot-management-and-customizations/)
-- TODO
+
+##### Plan Features
+- **Data privacy and security**:
+    - **GitHub Copilot Business and Enterprise** are the only plans that provide more **robust privacy controls**.
+    - These controls include the ability to...
+        - exclude specific files from GitHub Copilot analysis,
+        - access detailed audit logs,
+        - and provide IP indemnity.
+- **Policy management**:
+    - **Business and Enterprise** plans allow for **comprehensive policy management**,
+        - to help ensure that sensitive data is handled according to the organization's privacy policies.
+- **Data collection and retention**:
+    - Understanding how data is collected and retained is essential for compliance with data privacy regulations.
+    - **Individual subscribers** can **choose whether GitHub collects and retains their prompts and Copilot suggestions**.
+- **IP indemnity and data privacy**:
+    - For businesses and enterprises, IP indemnity and data privacy are critical to avoiding legal, security, and customer issues.
+    - Evaluating the need for these features can help determine the most suitable pricing plan for your business.

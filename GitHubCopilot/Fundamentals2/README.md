@@ -46,3 +46,22 @@ curl -L \
 ##### [Exercise - Create unit tests by using GitHub Copilot Chat](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/3-exercise-create-method-unit-tests-github-copilot-inline-chat)
 ##### [Exercise - Create unit tests for specific conditions by using GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/4-exercise-create-specific-unit-test-github-copilot-inline-chat)
 ##### [Exercise - Complete the "create unit tests" challenge](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/5-exercise-complete-create-unit-tests-challenge)
+
+
+#### Introduction to Copilot Business
+- **A more powerful AI model**: New modeling algorithms improve the quality of code suggestions.
+- **AI-based security vulnerability filtering**: GitHub Copilot Business automatically blocks common insecure code suggestions by targeting issues such as hard-coded credentials, SQL injections, and path injections.
+- **VPN proxy support**: GitHub Copilot works with VPNs including self-signed certificates, allowing developers to use it in any working environment.
+- **Simple sign-up**: Any company can quickly purchase Copilot Business licenses online and easily assign users, even if they don't use the GitHub platform for their source code.
+
+##### Using and enabling GitHub Copilot Business for your enterprise
+1. You must first establish a policy for using GitHub Copilot Business in your enterprise.
+1. Once GitHub Copilot Business is enabled at the enterprise level, you can configure GitHub Copilot settings for each organization in your enterprise.
+1. By first establishing the policy and then assigning users, your enterprise owner can enable GitHub Copilot Business.
+
+#### Introduction to Copilot Enterprise
+- Collaborative Chat within pull requests
+- Pull request summaries
+- Copilot docset management
+- Copilot code review
+

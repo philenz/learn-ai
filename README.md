@@ -8,16 +8,11 @@
 1. [Create agentic AI solutions with Azure AI Foundry](./AISkills/AgenticSolutions/README.md)
 1. [Become a Certified Fabric Data Engineer: Prep for the DP-700 Certification](./AISkills/FabricDataEngineer/README.md)
 
-## Incoming...
-- [GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
-- [10 Awesome MCP Servers](https://www.kdnuggets.com/10-awesome-mcp-servers)
-- [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
-
 ## Azure Certification
 - [AI-900: AI Fundamentals](./AzureAIFundamentals/README.md)
 - [AI-102: AI Engineer](./AzureAIEngineer/README.md)
 
-## Microsoft Learn
+## Azure AI
 - [Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 - [Fundamentals of Knowledge Mining and Azure AI Search](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/)
 - [Implement knowledge mining with Azure AI Search](https://learn.microsoft.com/en-us/training/paths/implement-knowledge-mining-azure-cognitive-search/)
@@ -28,6 +23,19 @@
 - [Build AI Apps with Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/training/paths/build-ai-apps-azure-database-postgresql/)
 - [Microsoft Learn PostgreSQL exercises](https://github.com/MicrosoftLearning/mslearn-postgresql?tab=readme-ov-file)
 - [Building a RAG application with a PostgreSQL database](https://learn.microsoft.com/en-us/shows/visual-studio-code/building-a-rag-application-with-a-postgresql-database)
+
+## MCP Servers
+- [10 Awesome MCP Servers](https://www.kdnuggets.com/10-awesome-mcp-servers)
+- [DevDb MCP Server](https://github.com/damms005/devdb-vscode?tab=readme-ov-file#mcp-configuration)
+- [Context7 MCP - Up-to-date Docs For Any Prompt](https://github.com/upstash/context7)
+
+## Agentic Coding
+- [Build a Multi-Agent System Using Microsoft Azure AI Agent Service and Semantic Kernel in 3 Simple Steps](https://devblogs.microsoft.com/semantic-kernel/guest-blog-build-a-multi-agent-system-using-microsoft-azure-ai-agent-service-and-semantic-kernel-in-3-simple-steps/)
+- [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
+
+## Prompting 
+- [GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)
+- [Prompting Strategies for GPT-4.1](https://www.thepromptindex.com/GPT-4-1-Advanced-Prompting-Strategies-for-Optimal-AI-Results.html)
 
 ## Google AI Studio
 - [Gemini](https://gemini.google.com/app)
@@ -47,5 +55,4 @@
 - [fast.ai—Making neural nets uncool again](https://www.fast.ai/)
 - [The Hundred-page Language Models Book](https://thelmbook.com/) / [theLMbook repo](https://github.com/aburkov/theLMbook)
 - [Microsoft AI Decision Brief 2025](MicrosoftAIDecisionBrief2025.pdf)
-
 

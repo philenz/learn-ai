@@ -1,6 +1,6 @@
 ## [GitHub Copilot](./GitHubCopilot/README.md)
 1. [GitHub Copilot Fundamentals Part 1 of 2](./GitHubCopilot/Fundamentals/README.md)
-1. [GitHub Copilot Fundamentals Part 2 of 2](.GitHubCopilot//Fundamentals2/README.md)
+1. [GitHub Copilot Fundamentals Part 2 of 2](./GitHubCopilot/Fundamentals2/README.md)
 1. [Guided project - Build auto suggest engine with Copilot](./GitHubCopilot/GuidedProject/README.md)
 
 ## AI Skills Fest Challenges

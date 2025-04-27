@@ -43,6 +43,9 @@ curl -L \
     1. Use GitHub Copilot Chat to develop unit test cases for your C# project.
     1. Use Visual Studio Code and the C# Dev Kit to run and manage your unit tests.
 
+##### Code
+- `~/src/learn-ai-exercises/SampleApps`
+
 ##### [Exercise - Create unit tests by using GitHub Copilot Chat](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/3-exercise-create-method-unit-tests-github-copilot-inline-chat)
 ##### [Exercise - Create unit tests for specific conditions by using GitHub Copilot](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/4-exercise-create-specific-unit-test-github-copilot-inline-chat)
 ##### [Exercise - Complete the "create unit tests" challenge](https://learn.microsoft.com/en-us/training/modules/develop-unit-tests-using-github-copilot-tools/5-exercise-complete-create-unit-tests-challenge)

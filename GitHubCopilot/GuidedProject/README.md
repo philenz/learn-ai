@@ -1,8 +1,8 @@
 ### [Guided project - Build auto suggest engine with Copilot](https://learn.microsoft.com/en-us/training/modules/build-auto-suggest-engine-copilot/)
 
-#### [Introduction](https://learn.microsoft.com/en-us/training/modules/build-auto-suggest-engine-copilot/1-introduction)
-
-#### [Prepare](https://learn.microsoft.com/en-us/training/modules/build-auto-suggest-engine-copilot/2-prepare)
+#### Code
+- `https://github.com/MicrosoftLearning/Guided-project-Build-an-Autosuggest-Engine-with-Copilot.git`
+- `~/src/learn-ai-exercises/Guided-project-Build-an-Autosuggest-Engine-with-Copilot`
 
 #### [Exercise - Use Copilot to interpret code](https://learn.microsoft.com/en-us/training/modules/build-auto-suggest-engine-copilot/3-interpret-code-with-copilot)
 

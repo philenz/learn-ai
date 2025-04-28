@@ -1,12 +1,8 @@
-## [GitHub Copilot](./GitHubCopilot/README.md)
-1. [GitHub Copilot Fundamentals Part 1 of 2](./GitHubCopilot/Fundamentals/README.md)
-1. [GitHub Copilot Fundamentals Part 2 of 2](./GitHubCopilot/Fundamentals2/README.md)
-1. [Guided project - Build auto suggest engine with Copilot](./GitHubCopilot/GuidedProject/README.md)
 
 ## AI Skills Fest Challenges
-1. [Architecture Recipes for AI-Powered Applications](./AISkills/ArchitectureRecipes/README.md)
 1. [Create agentic AI solutions with Azure AI Foundry](./AISkills/AgenticSolutions/README.md)
 1. [Become a Certified Fabric Data Engineer: Prep for the DP-700 Certification](./AISkills/FabricDataEngineer/README.md)
+1. [Architecture Recipes for AI-Powered Applications](./AISkills/ArchitectureRecipes/README.md)
 
 ## Azure Certification
 - [AI-900: AI Fundamentals](./AzureAIFundamentals/README.md)
@@ -23,6 +19,11 @@
 - [Build AI Apps with Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/training/paths/build-ai-apps-azure-database-postgresql/)
 - [Microsoft Learn PostgreSQL exercises](https://github.com/MicrosoftLearning/mslearn-postgresql?tab=readme-ov-file)
 - [Building a RAG application with a PostgreSQL database](https://learn.microsoft.com/en-us/shows/visual-studio-code/building-a-rag-application-with-a-postgresql-database)
+
+## [GitHub Copilot](./GitHubCopilot/README.md)
+1. [GitHub Copilot Fundamentals Part 1 of 2](./GitHubCopilot/Fundamentals/README.md)
+1. [GitHub Copilot Fundamentals Part 2 of 2](./GitHubCopilot/Fundamentals2/README.md)
+1. [Guided project - Build auto suggest engine with Copilot](./GitHubCopilot/GuidedProject/README.md)
 
 ## MCP Servers
 - [10 Awesome MCP Servers](https://www.kdnuggets.com/10-awesome-mcp-servers)

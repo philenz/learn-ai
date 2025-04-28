@@ -28,6 +28,8 @@
 - [10 Awesome MCP Servers](https://www.kdnuggets.com/10-awesome-mcp-servers)
 - [DevDb MCP Server](https://github.com/damms005/devdb-vscode?tab=readme-ov-file#mcp-configuration)
 - [Context7 MCP - Up-to-date Docs For Any Prompt](https://github.com/upstash/context7)
+- [Azure MCP Server enters Public Preview](https://www.infoq.com/news/2025/04/azure-mcp-server-public-preview/)
+    - https://github.com/Azure/azure-mcp
 
 ## Agentic Coding
 - [Build a Multi-Agent System Using Microsoft Azure AI Agent Service and Semantic Kernel in 3 Simple Steps](https://devblogs.microsoft.com/semantic-kernel/guest-blog-build-a-multi-agent-system-using-microsoft-azure-ai-agent-service-and-semantic-kernel-in-3-simple-steps/)

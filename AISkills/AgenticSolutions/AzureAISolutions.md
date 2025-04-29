@@ -101,7 +101,7 @@ Management of project assets | Including models and endpoints, data and indexes,
     - [Semantic Kernel](https://learn.microsoft.com/en-us/semantic-kernel/overview/)
 - [Prompt Flow](https://microsoft.github.io/promptflow/index.html)
 
-#### Exercise: Prepare for an AI development project
+#### [Exercise: Prepare for an AI development project](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/7-exercise-explore-ai-foundry)
 1. Browse to https://ai.azure.com/ and login with Azure credentials
 1. Create a hub and project
 1. Add an Azure AI Services resource

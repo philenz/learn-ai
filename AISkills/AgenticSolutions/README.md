@@ -4,7 +4,7 @@
 
 #### [Choose and deploy models from the model catalog in Azure AI Foundry portal](./AIModels.md)
 
-#### [Develop an AI app with the Azure AI Foundry SDK](https://learn.microsoft.com/en-us/training/modules/ai-foundry-sdk/)
+#### [Develop an AI app with the Azure AI Foundry SDK](./DevelopAIApps.md)
 
 #### [Fundamentals of AI agents on Azure](https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/)
 

@@ -1,8 +1,8 @@
 ## [Create agentic AI solutions with Azure AI Foundry](https://learn.microsoft.com/en-us/collections/50wkaqtq50egz3)
 
-#### [Plan and prepare to develop AI solutions on Azure](https://learn.microsoft.com/en-us/training/modules/prepare-azure-ai-development/)
+#### [Plan and prepare to develop AI solutions on Azure](./AzureAISolutions.md)
 
-#### [Choose and deploy models from the model catalog in Azure AI Foundry portal](https://learn.microsoft.com/en-us/training/modules/explore-models-azure-ai-studio/)
+#### [Choose and deploy models from the model catalog in Azure AI Foundry portal](./AIModels.md)
 
 #### [Develop an AI app with the Azure AI Foundry SDK](https://learn.microsoft.com/en-us/training/modules/ai-foundry-sdk/)
 

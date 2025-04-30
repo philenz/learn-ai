@@ -92,3 +92,4 @@ options.AddDataSource(
 - Prompt flow provides various samples you can use as a starting point to create an application. When you want to combine RAG and a language model in your application, you can clone the **Multi-round Q&A on your data** sample.
 
 #### [Exercise - Create a generative AI app that uses your own data](https://learn.microsoft.com/en-us/training/modules/build-copilot-ai-studio/5-exercise)
+- [Source from the example app](./src/rag-app/Program.cs)

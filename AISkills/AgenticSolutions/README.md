@@ -5,7 +5,7 @@
 - [Develop an AI app with the Azure AI Foundry SDK](./DevelopAIApps.md)
 - [Get started with AI agent development on Azure](./AIAgents.md)
 - [Develop a RAG-based solution with your own data using Azure AI Foundry](./RAG.md)
-- [Introduction to AI Agent Service Security Controls](https://learn.microsoft.com/en-us/training/modules/intro-ai-agent-service-security-controls/)
+- [Introduction to AI Agent Service Security Controls](./AIAgentSecurity.md)
 - [Develop an AI agent with Azure AI Agent Service](https://learn.microsoft.com/en-us/training/modules/develop-ai-agent-azure/)
 - [Integrate custom tools into your agent](https://learn.microsoft.com/en-us/training/modules/build-agent-with-custom-tools/)
 - [Orchestrate a multi-agent solution using Semantic Kernel](https://learn.microsoft.com/en-us/training/modules/orchestrate-semantic-kernel-multi-agent-solution/)

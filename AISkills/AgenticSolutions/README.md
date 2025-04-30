@@ -6,7 +6,7 @@
 
 #### [Develop an AI app with the Azure AI Foundry SDK](./DevelopAIApps.md)
 
-#### [Fundamentals of AI agents on Azure](https://learn.microsoft.com/en-us/training/modules/ai-agent-fundamentals/)
+#### [Get started with AI agent development on Azure](./AIAgents.md)
 
 #### [Develop a RAG-based solution with your own data using Azure AI Foundry](https://learn.microsoft.com/en-us/training/modules/build-copilot-ai-studio/)
 

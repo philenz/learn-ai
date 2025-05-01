@@ -8,4 +8,4 @@
 - [Introduction to AI Agent Service Security Controls](./AIAgentSecurity.md)
 - [Develop an AI agent with Azure AI Agent Service](./AIAgentService.md)
 - [Integrate custom tools into your agent](./AgentTools.md)
-- [Orchestrate a multi-agent solution using Semantic Kernel](https://learn.microsoft.com/en-us/training/modules/orchestrate-semantic-kernel-multi-agent-solution/)
+- [Orchestrate a multi-agent solution using Semantic Kernel](./SemanticKernel.md)

@@ -7,5 +7,5 @@
 - [Develop a RAG-based solution with your own data using Azure AI Foundry](./RAG.md)
 - [Introduction to AI Agent Service Security Controls](./AIAgentSecurity.md)
 - [Develop an AI agent with Azure AI Agent Service](./AIAgentService.md)
-- [Integrate custom tools into your agent](https://learn.microsoft.com/en-us/training/modules/build-agent-with-custom-tools/)
+- [Integrate custom tools into your agent](./AgentTools.md)
 - [Orchestrate a multi-agent solution using Semantic Kernel](https://learn.microsoft.com/en-us/training/modules/orchestrate-semantic-kernel-multi-agent-solution/)

@@ -1,5 +1,4 @@
 ## Incoming
-1. [VS Code Agent Mode Just Changed Everything](https://www.youtube.com/watch?v=dutyOc_cAEU)
 1. [Streamline Azure Tasks in VS Code Using GitHub Copilot](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/streamline-azure-tasks-in-vs-code-using-github-copilot/4400258)
 1. [Architecture Recipes for AI-Powered Applications](./AISkills/ArchitectureRecipes/README.md)
 1. [Quickstart: Build your first .NET Aspire solution](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/build-your-first-aspire-app?pivots=vscode)
@@ -20,6 +19,9 @@
 
 ## Agentic Coding
 - [Create agentic AI solutions with Azure AI Foundry](./AISkills/AgenticSolutions/README.md)
+- [VS Code Agent Mode Just Changed Everything](https://www.youtube.com/watch?v=dutyOc_cAEU)
+    - [PRD](https://gist.github.com/burkeholland/24802296b5bfaaf7fb775c81cd626512)
+    - [copilot-instructions.md](https://gist.github.com/burkeholland/bfa38d14b3ec4d5f1ec509656370d62e)
 - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
 
 ## Azure AI

@@ -1,24 +1,10 @@
-
-## AI Skills Fest Challenges
-1. [Create agentic AI solutions with Azure AI Foundry](./AISkills/AgenticSolutions/README.md)
-1. [Become a Certified Fabric Data Engineer: Prep for the DP-700 Certification](./AISkills/FabricDataEngineer/README.md)
+## Incoming
+1. [VS Code Agent Mode Just Changed Everything](https://www.youtube.com/watch?v=dutyOc_cAEU)
+1. [Streamline Azure Tasks in VS Code Using GitHub Copilot](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/streamline-azure-tasks-in-vs-code-using-github-copilot/4400258)
 1. [Architecture Recipes for AI-Powered Applications](./AISkills/ArchitectureRecipes/README.md)
-
-## Azure Certification
-- [AI-900: AI Fundamentals](./AzureAIFundamentals/README.md)
-- [AI-102: AI Engineer](./AzureAIEngineer/README.md)
-
-## Azure AI
-- [Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
-- [Fundamentals of Knowledge Mining and Azure AI Search](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/)
-- [Implement knowledge mining with Azure AI Search](https://learn.microsoft.com/en-us/training/paths/implement-knowledge-mining-azure-cognitive-search/)
-- [Develop natural language processing solutions with Azure AI Services](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/)
-- [Fundamentals of question answering with the Language Service](https://learn.microsoft.com/en-us/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/)
-
-## Build AI-Powered Apps with Azure Database for PostgreSQL
-- [Build AI Apps with Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/training/paths/build-ai-apps-azure-database-postgresql/)
-- [Microsoft Learn PostgreSQL exercises](https://github.com/MicrosoftLearning/mslearn-postgresql?tab=readme-ov-file)
-- [Building a RAG application with a PostgreSQL database](https://learn.microsoft.com/en-us/shows/visual-studio-code/building-a-rag-application-with-a-postgresql-database)
+1. [Quickstart: Build your first .NET Aspire solution](https://learn.microsoft.com/en-us/dotnet/aspire/get-started/build-your-first-aspire-app?pivots=vscode)
+1. [Build a Multi-Agent System Using Microsoft Azure AI Agent Service and Semantic Kernel in 3 Simple Steps](https://devblogs.microsoft.com/semantic-kernel/guest-blog-build-a-multi-agent-system-using-microsoft-azure-ai-agent-service-and-semantic-kernel-in-3-simple-steps/)
+1. [Develop generative AI apps with Azure OpenAI and Semantic Kernel](https://learn.microsoft.com/en-us/training/paths/develop-ai-agents-azure-open-ai-semantic-kernel-sdk/)
 
 ## [GitHub Copilot](./GitHubCopilot/README.md)
 1. [GitHub Copilot Fundamentals Part 1 of 2](./GitHubCopilot/Fundamentals/README.md)
@@ -33,8 +19,25 @@
     - https://github.com/Azure/azure-mcp
 
 ## Agentic Coding
-- [Build a Multi-Agent System Using Microsoft Azure AI Agent Service and Semantic Kernel in 3 Simple Steps](https://devblogs.microsoft.com/semantic-kernel/guest-blog-build-a-multi-agent-system-using-microsoft-azure-ai-agent-service-and-semantic-kernel-in-3-simple-steps/)
+- [Create agentic AI solutions with Azure AI Foundry](./AISkills/AgenticSolutions/README.md)
 - [Claude Code: Best practices for agentic coding](https://www.anthropic.com/engineering/claude-code-best-practices)
+
+## Azure AI
+- [Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
+- [Fundamentals of Knowledge Mining and Azure AI Search](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/)
+- [Implement knowledge mining with Azure AI Search](https://learn.microsoft.com/en-us/training/paths/implement-knowledge-mining-azure-cognitive-search/)
+- [Develop natural language processing solutions with Azure AI Services](https://learn.microsoft.com/en-us/training/paths/develop-language-solutions-azure-ai/)
+- [Fundamentals of question answering with the Language Service](https://learn.microsoft.com/en-us/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/)
+- [Become a Certified Fabric Data Engineer: Prep for the DP-700 Certification](./AISkills/FabricDataEngineer/README.md)
+
+## Azure Certification
+- [AI-900: AI Fundamentals](./AzureAIFundamentals/README.md)
+- [AI-102: AI Engineer](./AzureAIEngineer/README.md)
+
+## Build AI-Powered Apps with Azure Database for PostgreSQL
+- [Build AI Apps with Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/training/paths/build-ai-apps-azure-database-postgresql/)
+- [Microsoft Learn PostgreSQL exercises](https://github.com/MicrosoftLearning/mslearn-postgresql?tab=readme-ov-file)
+- [Building a RAG application with a PostgreSQL database](https://learn.microsoft.com/en-us/shows/visual-studio-code/building-a-rag-application-with-a-postgresql-database)
 
 ## Prompting 
 - [GPT-4.1 Prompting Guide](https://cookbook.openai.com/examples/gpt4-1_prompting_guide)

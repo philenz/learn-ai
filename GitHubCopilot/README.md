@@ -6,6 +6,7 @@
 - [Guided project - Build auto suggest engine with Copilot](./GuidedProject/README.md)
 
 ### Links
+- [Using GitHub Copilot in your IDE: Tips, tricks, and best practices](https://github.blog/developer-skills/github/how-to-use-github-copilot-in-your-ide-tips-tricks-and-best-practices/)
 - [GitHub Copilot in VS Code](https://code.visualstudio.com/docs/copilot/overview)
     - [Using chat in VS Code](https://code.visualstudio.com/docs/copilot/chat/copilot-chat)
 - [GitHub Copilot documentation](https://docs.github.com/en/copilot)

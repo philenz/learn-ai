@@ -14,5 +14,5 @@
 
 #### [Drive higher utilization of your Java apps - autoscaling](https://learn.microsoft.com/en-us/training/modules/autoscale-java-azure/)
 
-#### [Deploy applications to Azure Kubernetes Service](https://learn.microsoft.com/en-us/training/modules/deploy-applications-azure-kubernetes-service/)
+#### [Deploy applications to Azure Kubernetes Service](./DeployAKS.md)
 

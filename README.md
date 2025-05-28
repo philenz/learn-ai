@@ -1,5 +1,6 @@
 ## Incoming
 - [Microsoft Build 2025](./MSBuild2025/README.md)
+- [Create agentic AI solutions by using Azure AI Foundry](https://learn.microsoft.com/en-us/plans/34mi6tezkd7em)
 
 ## [GitHub Copilot](./GitHubCopilot/README.md)
 1. [GitHub Copilot Fundamentals Part 1 of 2](./GitHubCopilot/Fundamentals/README.md)

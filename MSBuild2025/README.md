@@ -10,6 +10,8 @@
 - [The future of web development with ASP.NET Core & Blazor](https://build.microsoft.com/en-US/sessions/BRK122?source=/favorites)
 - [Elevating Development with .NET Aspire: AI, Cloud, and Beyond](https://build.microsoft.com/en-US/sessions/BRK106?source=/favorites)
 - [Build the next gen of AI apps with .NET: Models, Data, Agents, & More](https://build.microsoft.com/en-US/sessions/BRK104?source=/favorites)
+    - [Agent example: Accede Travel Concierge](https://github.com/luisquintanilla/accedesimple)
+    - [Create a .NET AI app to chat with custom data using the AI app template extensions](https://learn.microsoft.com/en-us/dotnet/ai/quickstarts/ai-templates?tabs=visual-studio%2Cconfigure-visual-studio&pivots=github-models)
 - [Use VS Code to build AI apps and agents](https://build.microsoft.com/en-US/sessions/BRK117?source=/favorites)
 - [Accelerate Azure Development with GitHub Copilot, VS Code & AI](https://build.microsoft.com/en-US/sessions/BRK118?source=/favorites)
 - [Beyond the Game: How AI and Data Are Powering the Future of Sports](https://build.microsoft.com/en-US/sessions/BRK143?source=/favorites)

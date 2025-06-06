@@ -17,6 +17,8 @@
     - [Install or update the Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd?tabs=winget-windows%2Cbrew-mac%2Cscript-linux&pivots=os-linux)
     - [Remote MCP with Azure Container Apps](https://learn.microsoft.com/en-us/samples/azure-samples/mcp-container-ts/mcp-container-ts/)
 - [Yet "Another Highly Technical Talk" with Hanselman and Toub](https://build.microsoft.com/en-US/sessions/BRK121?source=/favorites)
+    - `System.Threading.Channels`
+    - [.NET Source Browser](https://source.dot.net/)
 - [Python Meets .NET: Building AI Solutions with Combined Strengths](https://build.microsoft.com/en-US/sessions/BRK115?source=/favorites)
 - [Accelerate Azure Development with GitHub Copilot, VS Code & AI](https://build.microsoft.com/en-US/sessions/BRK118?source=/favorites)
     - [AI app templates](https://azure.github.io/ai-app-templates/)

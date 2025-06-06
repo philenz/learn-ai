@@ -5,7 +5,6 @@
 
 ### [Favourites](https://build.microsoft.com/en-US/favorites)
 
-
 - [GitHub Copilot for Skeptics Who Still Think AI is Overrated](https://build.microsoft.com/en-US/sessions/BRK124?source=/favorites)
 - [The future of web development with ASP.NET Core & Blazor](https://build.microsoft.com/en-US/sessions/BRK122?source=/favorites)
 - [Elevating Development with .NET Aspire: AI, Cloud, and Beyond](https://build.microsoft.com/en-US/sessions/BRK106?source=/favorites)
@@ -13,6 +12,10 @@
     - [Agent example: Accede Travel Concierge](https://github.com/luisquintanilla/accedesimple)
     - [Create a .NET AI app to chat with custom data using the AI app template extensions](https://learn.microsoft.com/en-us/dotnet/ai/quickstarts/ai-templates?tabs=visual-studio%2Cconfigure-visual-studio&pivots=github-models)
 - [Use VS Code to build AI apps and agents](https://build.microsoft.com/en-US/sessions/BRK117?source=/favorites)
+    - [TypeSpec](https://typespec.io/)
+    - [TypeSpec MCP Server and Emitter](https://github.com/microsoft/typespec-mcp)
+    - [Install or update the Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd?tabs=winget-windows%2Cbrew-mac%2Cscript-linux&pivots=os-linux)
+    - [Remote MCP with Azure Container Apps](https://learn.microsoft.com/en-us/samples/azure-samples/mcp-container-ts/mcp-container-ts/)
 - [Accelerate Azure Development with GitHub Copilot, VS Code & AI](https://build.microsoft.com/en-US/sessions/BRK118?source=/favorites)
 - [Beyond the Game: How AI and Data Are Powering the Future of Sports](https://build.microsoft.com/en-US/sessions/BRK143?source=/favorites)
 - [Train a custom reasoning model at scale with Azure Machine Learning](https://build.microsoft.com/en-US/sessions/BRK172?source=/favorites)

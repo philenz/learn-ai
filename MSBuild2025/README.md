@@ -4,7 +4,6 @@
 - [Foundry Local](https://github.com/microsoft/Foundry-Local)
 
 ### [Favourites](https://build.microsoft.com/en-US/favorites)
-- [GitHub Copilot for Skeptics Who Still Think AI is Overrated](https://build.microsoft.com/en-US/sessions/BRK124?source=/favorites)
 - [Build Microsoft Teams collaborative agents as virtual colleagues with Visual Studio Code](https://build.microsoft.com/en-US/sessions/BRK166?source=/favorites)
 - [Building the digital workforce: Multi-agent apps with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK148?source=/favorites)
 - [Best practices for building agentic apps with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK152?source=/favorites)
@@ -35,6 +34,7 @@
     - [TypeSpec MCP Server and Emitter](https://github.com/microsoft/typespec-mcp)
     - [Install or update the Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd?tabs=winget-windows%2Cbrew-mac%2Cscript-linux&pivots=os-linux)
     - [Remote MCP with Azure Container Apps](https://learn.microsoft.com/en-us/samples/azure-samples/mcp-container-ts/mcp-container-ts/)
+- [GitHub Copilot for Skeptics Who Still Think AI is Overrated](https://build.microsoft.com/en-US/sessions/BRK124?source=/favorites)
 - [The future of web development with ASP.NET Core & Blazor](https://build.microsoft.com/en-US/sessions/BRK122?source=/favorites)
     - [.NET and AI](https://dotnet.microsoft.com/en-us/apps/ai)
 - [Accelerate Azure Development with GitHub Copilot, VS Code & AI](https://build.microsoft.com/en-US/sessions/BRK118?source=/favorites)

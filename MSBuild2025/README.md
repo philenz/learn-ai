@@ -4,7 +4,6 @@
 - [Foundry Local](https://github.com/microsoft/Foundry-Local)
 
 ### [Favourites](https://build.microsoft.com/en-US/favorites)
-- [Build Microsoft Teams collaborative agents as virtual colleagues with Visual Studio Code](https://build.microsoft.com/en-US/sessions/BRK166?source=/favorites)
 - [Building the digital workforce: Multi-agent apps with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK148?source=/favorites)
 - [Best practices for building agentic apps with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK152?source=/favorites)
 - [Building secure AI Agents with Azure Functions](https://build.microsoft.com/en-US/sessions/BRK189?source=/favorites)
@@ -39,6 +38,8 @@
     - [.NET and AI](https://dotnet.microsoft.com/en-us/apps/ai)
 - [Accelerate Azure Development with GitHub Copilot, VS Code & AI](https://build.microsoft.com/en-US/sessions/BRK118?source=/favorites)
     - [AI app templates](https://azure.github.io/ai-app-templates/)
+- [Build Microsoft Teams collaborative agents as virtual colleagues with Visual Studio Code](https://build.microsoft.com/en-US/sessions/BRK166?source=/favorites)
+    - [Teams AI Library v2 SDK](https://learn.microsoft.com/en-us/microsoftteams/platform/teams-ai-library/)
 - [Yet "Another Highly Technical Talk" with Hanselman and Toub](https://build.microsoft.com/en-US/sessions/BRK121?source=/favorites)
     - `System.Threading.Channels`
     - [.NET Source Browser](https://source.dot.net/)

@@ -27,7 +27,7 @@
 - [Building a RAG application with a PostgreSQL database](https://learn.microsoft.com/en-us/shows/visual-studio-code/building-a-rag-application-with-a-postgresql-database)
 
 ## Snowflake
-- [Snowflake Customer Education Resources](./Snowflake/SnowflakeCustomerEducationResources.pdf)
+- [Snowflake Customer Education Resources](./Snowflake/README.md)
 
 ## Google AI Studio
 - [Gemini](https://gemini.google.com/app)

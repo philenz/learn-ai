@@ -4,21 +4,19 @@
 - [Foundry Local](https://github.com/microsoft/Foundry-Local)
 
 ### [Favourites](https://build.microsoft.com/en-US/favorites)
-- [Building the digital workforce: Multi-agent apps with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK148?source=/favorites)
-- [Best practices for building agentic apps with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK152?source=/favorites)
+- [Unveiling Latest Innovations in Azure AI Foundry Model Catalog](https://build.microsoft.com/en-US/sessions/BRK174?source=/favorites)
 - [Building secure AI Agents with Azure Functions](https://build.microsoft.com/en-US/sessions/BRK189?source=/favorites)
-- [Copilot Studio Agents & Azure AI Foundry: better together](https://build.microsoft.com/en-US/sessions/BRK162?source=/favorites)
 - [Optimize your GenAI applications at scale in Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK178?source=/favorites)
 - [Agentic RAG: build a reasoning retrieval engine with Azure AI Search](https://build.microsoft.com/en-US/sessions/BRK142?source=/favorites)
+- [Fine-tuning and distillation with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK150?source=/favorites)
 - [AI and Agent Observability in Azure AI Foundry and Azure Monitor](https://build.microsoft.com/en-US/sessions/BRK168?source=/favorites)
 - [Building Secure AI Agents with Microsoft Entra External ID](https://build.microsoft.com/en-US/sessions/BRK231?source=/favorites)
-- [Unveiling Latest Innovations in Azure AI Foundry Model Catalog](https://build.microsoft.com/en-US/sessions/BRK174?source=/favorites)
-- [Fine-tuning and distillation with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK150?source=/favorites)
 - [Secure and scale your AI APIs with Azure API Management](https://build.microsoft.com/en-US/sessions/BRK184?source=/favorites)
 - [Python Meets .NET: Building AI Solutions with Combined Strengths](https://build.microsoft.com/en-US/sessions/BRK115?source=/favorites)
 - [Inside Azure innovations with Mark Russinovich](https://build.microsoft.com/en-US/sessions/BRK195?source=/favorites)
 - [Streamlining AKS Debugging: Techniques to solve common & complex problems](https://build.microsoft.com/en-US/sessions/BRK181?source=/favorites)
 - [Running Stateful Workloads on AKS](https://build.microsoft.com/en-US/sessions/BRK191?source=/favorites)
+- [Copilot Studio Agents & Azure AI Foundry: better together](https://build.microsoft.com/en-US/sessions/BRK162?source=/favorites)
 - [What's Coming in Fabric Automation and CI/CD](https://build.microsoft.com/en-US/sessions/BRK205?source=/favorites)
 - [Train a custom reasoning model at scale with Azure Machine Learning](https://build.microsoft.com/en-US/sessions/BRK172?source=/favorites)
 
@@ -28,11 +26,16 @@
 - [Build the next gen of AI apps with .NET: Models, Data, Agents, & More](https://build.microsoft.com/en-US/sessions/BRK104?source=/favorites)
     - [Agent example: Accede Travel Concierge](https://github.com/luisquintanilla/accedesimple)
     - [Create a .NET AI app to chat with custom data using the AI app template extensions](https://learn.microsoft.com/en-us/dotnet/ai/quickstarts/ai-templates?tabs=visual-studio%2Cconfigure-visual-studio&pivots=github-models)
+- [Building the digital workforce: Multi-agent apps with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK148?source=/favorites)
+    - IaaS: Semantic Kernel - Agent framework
+    - PaaS: Azure AI Foundry - Agent service
+    - SaaS: Copilot Studio - Agents
 - [Use VS Code to build AI apps and agents](https://build.microsoft.com/en-US/sessions/BRK117?source=/favorites)
     - [TypeSpec](https://typespec.io/)
     - [TypeSpec MCP Server and Emitter](https://github.com/microsoft/typespec-mcp)
     - [Install or update the Azure Developer CLI](https://learn.microsoft.com/en-us/azure/developer/azure-developer-cli/install-azd?tabs=winget-windows%2Cbrew-mac%2Cscript-linux&pivots=os-linux)
     - [Remote MCP with Azure Container Apps](https://learn.microsoft.com/en-us/samples/azure-samples/mcp-container-ts/mcp-container-ts/)
+- [Best practices for building agentic apps with Azure AI Foundry](https://build.microsoft.com/en-US/sessions/BRK152?source=/favorites)
 - [GitHub Copilot for Skeptics Who Still Think AI is Overrated](https://build.microsoft.com/en-US/sessions/BRK124?source=/favorites)
 - [The future of web development with ASP.NET Core & Blazor](https://build.microsoft.com/en-US/sessions/BRK122?source=/favorites)
     - [.NET and AI](https://dotnet.microsoft.com/en-us/apps/ai)
@@ -44,3 +47,7 @@
     - `System.Threading.Channels`
     - [.NET Source Browser](https://source.dot.net/)
 - [Beyond the Game: How AI and Data Are Powering the Future of Sports](https://build.microsoft.com/en-US/sessions/BRK143?source=/favorites)
+
+### Slides
+![ai foundry](image.png)
+![agent service](image-1.png)

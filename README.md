@@ -1,6 +1,13 @@
 ## Incoming
 - [Microsoft Build 2025](./MSBuild2025/README.md)
 - [Create agentic AI solutions by using Azure AI Foundry](./AIFoundry/README.md)
+- [How to effectively use prompts, resources, and tools in MCP](https://composio.dev/blog/how-to-effectively-use-prompts-resources-and-tools-in-mcp)
+- [Claude Code: Common workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows)
+- [Claude Code: ClaudeLog](https://claudelog.com/)
+- [Claude Code: Multi-Session Manager](https://github.com/stravu/crystal)
+- [The Secret AI Workflow That Builds Client-Ready Websites in Minutes](https://medium.com/@aslockhart10/the-secret-ai-workflow-that-builds-client-ready-websites-in-minutes-c34e112c2d6e)
+- [Getting started with Gemini Command Line Interface (CLI)](https://www.marktechpost.com/2025/06/28/getting-started-with-gemini-command-line-interface-cli/)
+- [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 
 ## Azure AI
 - [Streamline Azure Tasks in VS Code Using GitHub Copilot](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/streamline-azure-tasks-in-vs-code-using-github-copilot/4400258)

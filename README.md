@@ -6,8 +6,10 @@
 - [Claude Code: ClaudeLog](https://claudelog.com/)
 - [Claude Code: Multi-Session Manager](https://github.com/stravu/crystal)
 - [The Secret AI Workflow That Builds Client-Ready Websites in Minutes](https://medium.com/@aslockhart10/the-secret-ai-workflow-that-builds-client-ready-websites-in-minutes-c34e112c2d6e)
-- [Getting started with Gemini Command Line Interface (CLI)](https://www.marktechpost.com/2025/06/28/getting-started-with-gemini-command-line-interface-cli/)
-- [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
+
+## Google
+- [Google AI Studio](./Google/AIStudio.md)
+- [Gemini CLI](./Google/GeminiCLI.md)
 
 ## Azure AI
 - [Streamline Azure Tasks in VS Code Using GitHub Copilot](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/streamline-azure-tasks-in-vs-code-using-github-copilot/4400258)
@@ -36,14 +38,6 @@
 ## Snowflake
 - [Snowflake Customer Education Resources](./Snowflake/README.md)
 
-## Google AI Studio
-- [Gemini](https://gemini.google.com/app)
-- [Google AI Studio](https://aistudio.google.com/prompts/new_chat)
-    - [Tune a model](https://aistudio.google.com/app/tune)
-    - [Get API key](https://aistudio.google.com/app/apikey)
-- [Gemini Developer API](https://ai.google.dev/gemini-api/docs)
-- [Gemini 2.0: Flash, Flash-Lite and Pro](https://developers.googleblog.com/en/gemini-2-family-expands/)
-- [Build with Google AI Forum](https://discuss.ai.google.dev/c/ai-studio/8)
 
 ## MCP Servers
 - [10 Awesome MCP Servers](https://www.kdnuggets.com/10-awesome-mcp-servers)

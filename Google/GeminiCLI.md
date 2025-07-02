@@ -1,4 +1,4 @@
-## Gemini CLI
+## [Gemini CLI](https://github.com/google-gemini/gemini-cli)
 - [Getting started with Gemini Command Line Interface (CLI)](https://www.marktechpost.com/2025/06/28/getting-started-with-gemini-command-line-interface-cli/)
 - [Gemini CLI: your open-source AI agent](https://blog.google/technology/developers/introducing-gemini-cli-open-source-ai-agent/)
 

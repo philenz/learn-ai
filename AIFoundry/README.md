@@ -1,9 +1,9 @@
 ## [Create agentic AI solutions by using Azure AI Foundry](https://learn.microsoft.com/en-us/plans/34mi6tezkd7em)
 
 ### Milestone 1: Find out how to use Azure AI Foundry and Azure AI Foundry SDK
-- Plan and prepare to develop Al solutions on Azure
-- Develop an Al app with the Azure AI Foundry SDK
-- Get started with prompt flow to develop language model apps in the Azure Al Foundry
+- [Plan and prepare to develop Al solutions on Azure](./PlanAISolutions.md)
+- [Develop an Al app with the Azure AI Foundry SDK](./DevelopAIApp.md)
+- [Get started with prompt flow to develop language model apps in the Azure Al Foundry](./PromptFlow.md)
 
 ### Milestone 2: Join an in-depth virtual training event and explore the Discord community to learn more about Azure
 - Develop your own Copilots with Azure AI

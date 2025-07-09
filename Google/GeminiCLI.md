@@ -18,3 +18,5 @@
 - [/docs](https://github.com/google-gemini/gemini-cli/blob/main/docs/index.md)
 - [commands](https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/commands.md)
 
+### Links
+- [Gemini CLI Tips](https://dev.to/therealmrmumba/7-insane-gemini-cli-tips-that-will-make-you-a-superhuman-developer-2d7h)

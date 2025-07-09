@@ -16,6 +16,5 @@
 
 ### Using...
 - [/docs](https://github.com/google-gemini/gemini-cli/blob/main/docs/index.md)
-
-
+- [commands](https://github.com/google-gemini/gemini-cli/blob/main/docs/cli/commands.md)
 

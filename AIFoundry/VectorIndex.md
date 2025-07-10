@@ -1,0 +1,1 @@
+## [Create a vector index](https://learn.microsoft.com/en-us/azure/search/vector-search-how-to-create-index?source=docs&ns-enrollment-type=Collection&ns-enrollment-id=pzxuztm2qzp3y&tabs=config-2024-07-01%2Crest-2024-07-01%2Cpush%2Cportal-check-index)

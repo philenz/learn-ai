@@ -1,0 +1,1 @@
+## [Tutorial: Part 2 - Build a custom knowledge retrieval (RAG) app with the Azure AI Foundry SDK](https://learn.microsoft.com/en-us/azure/ai-foundry/tutorials/copilot-sdk-build-rag?source=docs&ns-enrollment-type=Collection&ns-enrollment-id=pzxuztm2qzp3y)

@@ -6,11 +6,11 @@
 - [Get started with prompt flow to develop language model apps in the Azure Al Foundry](./PromptFlow.md)
 
 ### Unlock customization with RAG and Azure AI Search in Azure AI Foundry
-- Develop a RAG-based solution with your own data using Azure Al Foundry
-- Part 2: Build a custom knowledge retrieval (RAG) app with the Azure Al Foundry SDK - Azure Al Foundry
-- Implement Retrieval Augmented Generation (RAG) with Azure OpenAl models
-- Create an Azure Al Search solution
-- Create a vector index - Azure Al Search
+- [Develop a RAG-based solution with your own data using Azure Al Foundry](./DevelopRAG.md)
+- [Part 2: Build a custom knowledge retrieval (RAG) app with the Azure Al Foundry SDK - Azure Al Foundry](./DevelopRAG2.md)
+- [Implement Retrieval Augmented Generation (RAG) with Azure OpenAl models](./RAGandOpenAI.md)
+- [Create an Azure Al Search solution](./AISearch.md)
+- [Create a vector index - Azure Al Search](./VectorIndex.md)
 - Chunk and vectorize by document layout - Azure Al Search
 - Integrated vectorization with models from Azure Al Foundry - Azure Al Search
 - Vector query how-to - Azure Al Search

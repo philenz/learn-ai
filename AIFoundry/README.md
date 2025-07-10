@@ -29,5 +29,13 @@
 - Introduction to Al Agent Service Security Controls
 
 ### Validate your Azure AI Foundry skills with Microsoft Credentials
-- Microsoft Certified: Azure Al Engineer Associate - Certifications
-- Microsoft Applied Skills: Develop generative Al solutions with Azure OpenAl Service - Applied Skills
+- [Microsoft Certified: Azure Al Engineer Associate - Certifications](https://learn.microsoft.com/en-us/credentials/certifications/azure-ai-engineer/?source=docs&ns-enrollment-type=Collection&ns-enrollment-id=pzxuztm2qzp3y&practice-assessment-type=certification)
+- [Microsoft Applied Skills: AI Engineer](https://learn.microsoft.com/en-nz/credentials/browse/?credential_types=applied%20skills&roles=ai-engineer)
+    - [Build a natural language processing solution with Azure AI Language](https://learn.microsoft.com/en-nz/credentials/applied-skills/build-natural-language-solution-azure-ai/)
+    - [Build an Azure AI Vision solution](https://learn.microsoft.com/en-nz/credentials/applied-skills/build-azure-ai-vision-solution/)
+    - [Create an intelligent document processing solution with Azure AI Document Intelligence](https://learn.microsoft.com/en-nz/credentials/applied-skills/create-intelligent-document-solution-azure-ai/)
+    - [Develop generative AI apps with Azure OpenAI and Semantic Kernel](https://learn.microsoft.com/en-nz/credentials/applied-skills/develop-ai-agents-using-microsoft-azure-openai-and-semantic-kernel/)
+    - [Develop generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-nz/credentials/applied-skills/develop-generative-ai-solutions-with-azure-openai-service/)
+    - [Implement knowledge mining with Azure AI Search](https://learn.microsoft.com/en-nz/credentials/applied-skills/implement-knowledge-mining-with-azure-ai-search/)
+    - [Train and manage a machine learning model with Azure Machine Learning](https://learn.microsoft.com/en-nz/credentials/applied-skills/train-and-deploy-a-machine-learning-model-with-azure-machine-learning/)
+    

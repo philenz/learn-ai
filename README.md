@@ -1,6 +1,5 @@
 ## Incoming
 - [Create agentic AI solutions by using Azure AI Foundry](./AIFoundry/README.md)
-- [AI Engineer Certificate Renewal](./AzureAIEngineer/Renewal2025.md)
 
 ## Google
 - [Google AI Studio](./Google/AIStudio.md)

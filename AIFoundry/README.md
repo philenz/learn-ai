@@ -6,7 +6,7 @@
 - [Get started with prompt flow to develop language model apps in the Azure Al Foundry](./PromptFlow.md)
 
 ### Unlock customization with RAG and Azure AI Search in Azure AI Foundry
-- [Develop a RAG-based solution with your own data using Azure Al Foundry](./DevelopRAG.md)
+- HERE >>> [Develop a RAG-based solution with your own data using Azure Al Foundry](./DevelopRAG.md)
 - [Part 2: Build a custom knowledge retrieval (RAG) app with the Azure Al Foundry SDK - Azure Al Foundry](./DevelopRAG2.md)
 - [Implement Retrieval Augmented Generation (RAG) with Azure OpenAl models](./RAGandOpenAI.md)
 - [Create an Azure Al Search solution](./AISearch.md)

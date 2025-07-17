@@ -1,11 +1,6 @@
 ## Incoming
-- [Microsoft Build 2025](./MSBuild2025/README.md)
 - [Create agentic AI solutions by using Azure AI Foundry](./AIFoundry/README.md)
-- [How to effectively use prompts, resources, and tools in MCP](https://composio.dev/blog/how-to-effectively-use-prompts-resources-and-tools-in-mcp)
-- [Claude Code: Common workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows)
-- [Claude Code: ClaudeLog](https://claudelog.com/)
-- [Claude Code: Multi-Session Manager](https://github.com/stravu/crystal)
-- [The Secret AI Workflow That Builds Client-Ready Websites in Minutes](https://medium.com/@aslockhart10/the-secret-ai-workflow-that-builds-client-ready-websites-in-minutes-c34e112c2d6e)
+- [AI Engineer Certificate Renewal](./AzureAIEngineer/Renewal2025.md)
 
 ## Google
 - [Google AI Studio](./Google/AIStudio.md)
@@ -20,6 +15,7 @@
 - [Fundamentals of question answering with the Language Service](https://learn.microsoft.com/en-us/training/modules/build-faq-chatbot-qna-maker-azure-bot-service/)
 - [Architecture Recipes for AI-Powered Applications](./AISkills/ArchitectureRecipes/README.md)
 - [Become a Certified Fabric Data Engineer: Prep for the DP-700 Certification](./AISkills/FabricDataEngineer/README.md)
+- [Microsoft Build 2025](./MSBuild2025/README.md)
 
 ## Azure Certification
 - [AI-900: AI Fundamentals](./AzureAIFundamentals/README.md)
@@ -38,6 +34,10 @@
 ## Snowflake
 - [Snowflake Customer Education Resources](./Snowflake/README.md)
 
+## Claude
+- [Claude Code: Common workflows](https://docs.anthropic.com/en/docs/claude-code/common-workflows)
+- [Claude Code: ClaudeLog](https://claudelog.com/)
+- [Claude Code: Multi-Session Manager](https://github.com/stravu/crystal)
 
 ## MCP Servers
 - [10 Awesome MCP Servers](https://www.kdnuggets.com/10-awesome-mcp-servers)
@@ -45,6 +45,7 @@
 - [Context7 MCP - Up-to-date Docs For Any Prompt](https://github.com/upstash/context7)
 - [Azure MCP Server enters Public Preview](https://www.infoq.com/news/2025/04/azure-mcp-server-public-preview/)
     - https://github.com/Azure/azure-mcp
+- [How to effectively use prompts, resources, and tools in MCP](https://composio.dev/blog/how-to-effectively-use-prompts-resources-and-tools-in-mcp)
 
 ## Agentic Coding
 - [Create agentic AI solutions with Azure AI Foundry](./AISkills/AgenticSolutions/README.md)

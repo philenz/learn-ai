@@ -12,3 +12,5 @@
 - [Level up: Azure AI Engineer](./LevelUp.md)
 - [John Savill AI-102 Study Cram](./JS-AI102-StudyCram.md)
 - [Exam Prep videos](./PrepVideos.md)
+- [Renewal 2025](./Renewal2025.md)
+

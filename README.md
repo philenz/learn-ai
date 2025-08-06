@@ -1,5 +1,6 @@
 ## Incoming
 - [Create agentic AI solutions by using Azure AI Foundry](./AIFoundry/README.md)
+- [/r/ThinkingDeeplyAI](./ThinkingDeeplyAI/README.md)
 
 ## Google
 - [Google AI Studio](./Google/AIStudio.md)

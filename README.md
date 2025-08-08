@@ -1,9 +1,10 @@
 ## Incoming
-- [Create agentic AI solutions by using Azure AI Foundry](./AIFoundry/README.md)
+- Summarise these into one doc...
+    - [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
+    - [Create agentic AI solutions by using Azure AI Foundry](./AIFoundry/README.md)
+    - [Create agentic AI solutions with Azure AI Foundry](./AISkills/AgenticSolutions/README.md)
+- [Machine Learning for Beginners from Microsoft](https://github.com/microsoft/ML-For-Beginners)
 - [/r/ThinkingDeeplyAI](./ThinkingDeeplyAI/README.md)
 
 ## Resources
-- [Build an MCP Server](https://modelcontextprotocol.io/quickstart/server)
-- [Create agentic AI solutions with Azure AI Foundry](./AISkills/AgenticSolutions/README.md)
-- [Agentic AI Engineering: The Blueprint for Production-Grade AI Agents](AgenticAIEngineering.md)
 - [Lots of other exciting AI resources](Index.md)

@@ -44,7 +44,6 @@
 - [How to effectively use prompts, resources, and tools in MCP](https://composio.dev/blog/how-to-effectively-use-prompts-resources-and-tools-in-mcp)
 
 ## Agentic Coding
-- [Create agentic AI solutions with Azure AI Foundry](./AISkills/AgenticSolutions/README.md)
 - [VS Code Agent Mode Just Changed Everything](https://www.youtube.com/watch?v=dutyOc_cAEU)
     - [PRD](https://gist.github.com/burkeholland/24802296b5bfaaf7fb775c81cd626512)
     - [copilot-instructions.md](https://gist.github.com/burkeholland/bfa38d14b3ec4d5f1ec509656370d62e)

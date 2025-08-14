@@ -1,6 +1,6 @@
 # Agentic AI
 - [Agentic AI Engineering: The Blueprint for Production-Grade AI Agents](AgenticAIEngineering.md)
-- [AI Agents for Beginners](https://github.com/microsoft/ai-agents-for-beginners)
+- [AI Agents for Beginners](./AIAgentsForBeginners/README.md)
 
 ## [Create agentic AI solutions by using Azure AI Foundry](https://learn.microsoft.com/en-us/plans/34mi6tezkd7em)
 

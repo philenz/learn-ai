@@ -25,4 +25,5 @@
 ## Extra Learning
 - [MS Learn: AI Agents for Beginners](https://learn.microsoft.com/en-us/collections/7801c8tkj3x730)
 - [MCP for Beginners](https://github.com/microsoft/mcp-for-beginners/)
-- [John Savill: Agentic AI - What and How!](https://www.youtube.com/watch?v=UYJ539hgDS0)
+- [John Savill](https://www.youtube.com/@NTFAQGuy/featured):
+    - [Agentic AI - What and How!](https://www.youtube.com/watch?v=UYJ539hgDS0)

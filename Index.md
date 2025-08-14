@@ -22,6 +22,13 @@
 1. [GitHub Copilot Fundamentals Part 2 of 2](./GitHubCopilot/Fundamentals2/README.md)
 1. [Guided project - Build auto suggest engine with Copilot](./GitHubCopilot/GuidedProject/README.md)
 
+## [John Savill](https://www.youtube.com/@NTFAQGuy/featured)
+- [Agentic AI](https://www.youtube.com/watch?v=UYJ539hgDS0)
+    - This source explores the concept of **agentic AI**, defining it as an autonomous AI capable of **complex planning and execution** without constant human intervention, triggered by various events.
+    - It contrasts agentic AI with basic AI agents, emphasizing its ability to **dynamically create solutions** rather than following predefined workflows.
+    - The discussion then transitions into practical implementation, showcasing both **low-code solutions** like Co-pilot Studio, which enable generative orchestration and custom knowledge integration, and **pro-code solutions** using Semantic Kernel, highlighting its structure for multi-agent systems and collaboration.
+    - The source concludes by stressing the importance of **governance, testing, and data security** when deploying these powerful, autonomous AI agents.
+
 ## Build AI-Powered Apps with Azure Database for PostgreSQL
 - [Build AI Apps with Azure Database for PostgreSQL](https://learn.microsoft.com/en-us/training/paths/build-ai-apps-azure-database-postgresql/)
 - [Microsoft Learn PostgreSQL exercises](https://github.com/MicrosoftLearning/mslearn-postgresql?tab=readme-ov-file)

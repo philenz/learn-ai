@@ -3,6 +3,7 @@
 - [Gemini CLI](./Google/GeminiCLI.md)
 
 ## Azure AI
+- [Microsoft Ignite 2025](./Ignite2025/README.md)
 - [Streamline Azure Tasks in VS Code Using GitHub Copilot](https://techcommunity.microsoft.com/blog/azuredevcommunityblog/streamline-azure-tasks-in-vs-code-using-github-copilot/4400258)
 - [Develop Generative AI solutions with Azure OpenAI Service](https://learn.microsoft.com/en-us/training/paths/develop-ai-solutions-azure-openai/)
 - [Fundamentals of Knowledge Mining and Azure AI Search](https://learn.microsoft.com/en-us/training/modules/intro-to-azure-search/)

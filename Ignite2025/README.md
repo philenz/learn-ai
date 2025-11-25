@@ -1,5 +1,27 @@
 ## Ignite 2025
 - [Book of News](https://news.microsoft.com/ignite-2025-book-of-news/)
+- Keynote
+    - Work IQ
+        - Data
+        - Memory
+        - Inference
+    - M365 with CoPilot
+    - Agent HQ
+    - Agent Factory
+    - Agent 365
+    - Model Router
+    - Intelligence Layer
+        - Work IQ
+        - Fabric IQ
+        - Foundry IQ
+    - Foundry Control Plane
+    - Microsoft Security
+        - Defender
+        - Entra
+        - Purview
+    - AKS Automatic
+    - Azure HorizonDB
+    - OneLake
 
 ### [Favourite Sessions](https://ignite.microsoft.com/en-US/favorites)
 

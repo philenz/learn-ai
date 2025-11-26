@@ -1,6 +1,7 @@
 ## Ignite 2025
 - [Book of News](https://news.microsoft.com/ignite-2025-book-of-news/)
 
+---
 ### Keynote
 - Work IQ
     - Data
@@ -24,6 +25,7 @@
 - Azure HorizonDB
 - OneLake
 
+---
 ### Build AI Apps fast with GitHub and Microsoft Foundry in action
 - Agentic components
     - Reasoning (aka planning)
@@ -60,6 +62,11 @@
     - `azd ai agent`
 
 ![alt text](image.png)
+---
+### Modernize your apps in days with AI agents in GitHub Copilot
+- Next Up!
+
+---
 
 ### [Favourite Sessions](https://ignite.microsoft.com/en-US/favorites)
 
@@ -105,7 +112,6 @@
 - Reimagining software development with GitHub Copilot and AI agents
 - Secure, compliant, and fast with GitHub
 - Safe and scalable DevOps with AI agents on GitHub
-- Modernize your apps in days with AI agents in GitHub Copilot
 - Ship faster. Stress Less. Idea to ops with Azure and GitHub Copilot
 - Building Sustainable Software with Agentic DevOps on GitHub
 

@@ -1,0 +1,23 @@
+## Ignite 2025
+### Keynote
+- Work IQ
+    - Data
+    - Memory
+    - Inference
+- M365 with CoPilot
+- Agent HQ
+- Agent Factory
+- Agent 365
+- Model Router
+- Intelligence Layer
+    - Work IQ
+    - Fabric IQ
+    - Foundry IQ
+- Foundry Control Plane
+- Microsoft Security
+    - Defender
+    - Entra
+    - Purview
+- AKS Automatic
+- Azure HorizonDB
+- OneLake

@@ -7,7 +7,7 @@
 #### Foundry
 - [Build AI Apps fast with GitHub and Microsoft Foundry in action](./Session1.md)
 - Make smarter model choices: Anthropic, OpenAl & more on Microsoft Foundry
-- AI agents in Microsoft Foundry, ship fast, scale fearlessly
+- [AI agents in Microsoft Foundry, ship fast, scale fearlessly](./Session3.md)
 - Train, host and infer reasoning models on Microsoft Foundry
 - Connected, managed, and complete agentic apps with Microsoft Foundry
 - AI Operations to own the fleet, master the mission in Microsoft Foundry

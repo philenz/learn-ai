@@ -8,6 +8,7 @@
 Claude Code is designed to be flexible and customizable, allowing each developer to use it in ways that best suit their workflow. While the tool works great out of the box, these practical tips from the creator himself can help you maximize your productivity with Claude Code.
 
 - [How the Creator of Claude Code Actually Uses It: 13 Practical Moves](https://blog.devgenius.io/how-the-creator-of-claude-code-actually-uses-it-13-practical-moves-2bf02eec032a)
+- [OpenCode orchestrates; Copilot bills/routes; Anthropic’s Opus 4.5 does the reasoning](https://ericmjl.github.io/blog/2025/12/28/you-can-just-make-stuff-with-opencode-and-claude-opus-4-5/)
 
 ## 1. Run Multiple Claude Instances in Parallel
 

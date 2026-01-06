@@ -2,9 +2,12 @@
 
 *Insights from Boris Cherny, Creator of Claude Code*
 
+
 ## Introduction
 
 Claude Code is designed to be flexible and customizable, allowing each developer to use it in ways that best suit their workflow. While the tool works great out of the box, these practical tips from the creator himself can help you maximize your productivity with Claude Code.
+
+- [How the Creator of Claude Code Actually Uses It: 13 Practical Moves](https://blog.devgenius.io/how-the-creator-of-claude-code-actually-uses-it-13-practical-moves-2bf02eec032a)
 
 ## 1. Run Multiple Claude Instances in Parallel
 
